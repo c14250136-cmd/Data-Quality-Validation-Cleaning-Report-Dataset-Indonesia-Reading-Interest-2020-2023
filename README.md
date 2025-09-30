@@ -105,3 +105,6 @@ Langkah cleaning yang dilakukan:
 * Setelah proses **data cleaning**, dataset sudah jauh lebih konsisten dan siap untuk analisis.
 * Masih terdapat beberapa **missing values** pada kolom internet (35 baris), yang bisa ditangani lebih lanjut dengan imputasi atau analisis terpisah.
 
+LAMPIRAN : 
+1. LINK COLAB Data Quality Validation & Cleaning Report : https://colab.research.google.com/drive/1Xg1k2XqbhMPrqzqjc6_tk-J8crttvR7T?usp=sharing
+
